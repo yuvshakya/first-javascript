@@ -16,3 +16,4 @@ let age1 = 8;
 let drink1 = age >= 5 ? "coffee" : "milk";
 let drink2 = age >= 10 ? "coffee" : "milk";
 console.log(drink2);
+console.log(drink1);
